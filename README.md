@@ -1,2 +1,2 @@
-# SimCompaniesCLI
-CLI to interface with Sim Companies API
+# SimCompanies
+Classes to interface with Sim Companies API
